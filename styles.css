@@ -1,0 +1,60 @@
+body {
+  font-family: Georgia;
+  background: #DCD7D2;
+  color: ##23313D;
+
+}
+  
+
+h1 {
+  text-align: center;
+  text-size: 150px;
+  color: #E4572E;
+  
+}
+
+#byline {
+  text-align: left;
+  font-size: 15px;
+
+}
+  
+#credit {
+  font-size: 12px;
+  text-align: center;
+  
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+}
+
+#paragraph {
+  text-align: justify;
+
+}
+
+.flex-container {
+  flex-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  width: 1200px;
+  hight: 800px;
+  background-color: #C2B8AE;
+
+}
+
+
+
+
+
+
+
+
+
+
